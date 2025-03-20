@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/DariuszOkonski/git-1#readme",
   "devDependencies": {
-    "browser-sync": "^3.0.3"
+    "browser-sync": "^3.0.3",
+    "html-validate": "^9.5.2"
   }
 }
