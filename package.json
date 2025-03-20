@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/DariuszOkonski/git-1/issues"
   },
-  "homepage": "https://github.com/DariuszOkonski/git-1#readme"
+  "homepage": "https://github.com/DariuszOkonski/git-1#readme",
+  "devDependencies": {
+    "browser-sync": "^3.0.3"
+  }
 }
